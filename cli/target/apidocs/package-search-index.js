@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.opendaylight.example.cli.api"},{"l":"org.opendaylight.example.cli.commands"},{"l":"org.opendaylight.example.cli.impl"}]
