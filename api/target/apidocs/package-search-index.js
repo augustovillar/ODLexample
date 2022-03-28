@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.opendaylight.yang.gen.v1.urn.opendaylight.params.xml.ns.yang.example.rev180517"}]
