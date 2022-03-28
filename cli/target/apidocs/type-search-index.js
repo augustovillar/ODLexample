@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.opendaylight.example.cli.api","l":"ExampleCliCommands"},{"p":"org.opendaylight.example.cli.impl","l":"ExampleCliCommandsImpl"},{"p":"org.opendaylight.example.cli.commands","l":"ExampleCliTestCommand"}]

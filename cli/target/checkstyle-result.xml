@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="8.20">
-<file name="/home/ubuntu/example/cli/src/main/java/org/opendaylight/example/cli/commands/ExampleCliTestCommand.java">
-</file>
-<file name="/home/ubuntu/example/cli/src/main/java/org/opendaylight/example/cli/api/ExampleCliCommands.java">
-</file>
-<file name="/home/ubuntu/example/cli/src/main/java/org/opendaylight/example/cli/impl/ExampleCliCommandsImpl.java">
-</file>
-</checkstyle>
